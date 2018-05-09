@@ -29,17 +29,14 @@
 
 .contact-container {
     text-align: center;
-    padding: 2rem;
+    padding: 1rem;
 }
 
 .contacts {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-around;
     flex-wrap: wrap;
 }
 
-.profile-headshot-container {
-    text-align: center;
-}
 
