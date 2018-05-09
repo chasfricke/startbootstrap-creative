@@ -16,9 +16,25 @@
 }
 
 .portfolio-image {
-    width: 70vw;
+    width: 50vw;
 }
 
 .github-button-container {
+    text-align: center;
+}
+
+.contact-container {
+    text-align: center;
+    padding: 2rem;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.profile-headshot-container {
     text-align: center;
 }
