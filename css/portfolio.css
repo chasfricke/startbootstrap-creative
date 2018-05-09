@@ -12,11 +12,15 @@
 }
 
 .portfolio-description {
-    padding: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    width: 80vw;
+    text-align: center;
+    align-self: center;
 }
 
 .portfolio-image {
-    width: 50vw;
+    width: 60vw;
 }
 
 .github-button-container {
@@ -38,3 +42,4 @@
 .profile-headshot-container {
     text-align: center;
 }
+
