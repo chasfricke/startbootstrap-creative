@@ -1,0 +1,24 @@
+.portfolio-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-bottom: solid 1px darkslategray;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+}
+
+.portfolio-container a {
+    align-self: center;
+}
+
+.portfolio-description {
+    padding: 1rem;
+}
+
+.portfolio-image {
+    width: 70vw;
+}
+
+.github-button-container {
+    text-align: center;
+}
